@@ -1,0 +1,7 @@
+numpy
+mss
+pillow
+# optional, only for faster capture with the DXcam folder next to this one:
+# comtypes
+# optional, only for --video:
+# opencv-python-headless
